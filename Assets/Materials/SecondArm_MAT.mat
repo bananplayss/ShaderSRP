@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: CheckerShader_MAT
-  m_Shader: {fileID: 4800000, guid: bb07b53167879b047bff5fa9a2dedfed, type: 3}
+  m_Name: SecondArm_MAT
+  m_Shader: {fileID: 4800000, guid: 90a3d71e62cafab4b892660e28770096, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -29,6 +29,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Density: 10
-    m_Colors: []
+    - _Density: 2
+    m_Colors:
+    - _Color: {r: 0.7169812, g: 0.01690993, b: 0.01690993, a: 1}
   m_BuildTextureStacks: []
